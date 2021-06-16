@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  Sanity CMS doesn't work out of the box for China. [This solution](https://launch-in-china.21cloudbox.com/solutions/how-to-make-sanity-work-in-china.html) gives you an edge to make them work for China. Fast and <a href="https://launch-in-china.21cloudbox.com/untold-facts-about-icp-for-china.html" target="_blank">Legal</a>.
+  Sanity CMS doesn't work out of the box for China. <a href="https://launch-in-china.21cloudbox.com/solutions/how-to-make-sanity-work-in-china.html" target="_blank">This solution</a> gives you an edge to make them work for China. Fast and <a href="https://launch-in-china.21cloudbox.com/untold-facts-about-icp-for-china.html" target="_blank">Legal</a>.
 </p>
 
 ## **Quickstart**
